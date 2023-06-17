@@ -1,0 +1,39 @@
+package cn.fansheng.nuanjia;
+
+public class Test {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
